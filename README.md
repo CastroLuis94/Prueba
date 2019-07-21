@@ -14,6 +14,11 @@ Toma de decisiones:
         clase extra solo por un ejercicio.
 
 
+Complejo Teatral:
+
+El script contiene la creacion de las tablas insercion de algunas filas y consultas para el testeo
+de su funcionamiento.
+
 
 
 
